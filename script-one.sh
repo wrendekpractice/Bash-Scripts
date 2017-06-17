@@ -5,5 +5,3 @@ echo Hello World
 variable=$1
 
 echo $variable
-
-echo wow

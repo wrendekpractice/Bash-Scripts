@@ -4,5 +4,7 @@ echo Hello World
 
 variable=$1
 
+1 + 1
+
 echo $variable
-echo wow
+echo
